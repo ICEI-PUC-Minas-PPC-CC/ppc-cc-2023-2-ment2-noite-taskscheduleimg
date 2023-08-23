@@ -7,7 +7,7 @@
 ## Integrantes
 
 - Diovane Signorelli
-- Bill Gates
+- Felipe Pereira de Padua
 - Larry Ellison
 - Mark Zuckerberg
 

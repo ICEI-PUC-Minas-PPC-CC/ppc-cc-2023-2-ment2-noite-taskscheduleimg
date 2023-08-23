@@ -6,7 +6,7 @@
 
 ## Integrantes
 
-- Jeff Bezos
+- Diovane Signorelli
 - Bill Gates
 - Larry Ellison
 - Mark Zuckerberg

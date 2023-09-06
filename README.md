@@ -6,20 +6,22 @@
 
 ## Integrantes
 
-- Diovane Signorelli
-- Felipe Pereira de Padua
-- Larry Ellison
-- Mark Zuckerberg
+- Diovane De Jesus Almeida Signorelli
+- Felipe Pereira de Pádua
+- João Augusto Nogueira Ferrero
+- Lucas Gabriel da Silva Sampaio
+- Maria Eduarda Microni Quites Ferreira
 
 ## Professor
 
-- Mestre Yoda
+- Luciana de Nardin
+- Luis Gustavo Fogaroli
 
 # Documentação
 
 | Etapa   |  Atividades |
 |  :----:   | ----------- |
-| ETAPA 1 | Definição dosproblemas e formação das equipes |
+| ETAPA 1 | Definição dos problemas e formação das equipes |
 | ETAPA 2 | <a href="docs/1-Documentação de Contexto.md"> Documentação de Contexto</a> <br> <a href="docs/2-Especificação do Projeto.md"> Especificação do Projeto</a> <br> <a href="docs/7-Referências.md"> Referências bibliográficas</a>|
 | ETAPA 3 | <a href="docs/3-Detalhamento preliminar.md"> Detalhamento preliminar </a> |
 | ETAPA 4 | <a href="docs/4-Sprint 1.md"> Artefatos da Sprint 1</a> |

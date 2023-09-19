@@ -1,9 +1,10 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Este repositório abriga um projeto de Help Desk desenvolvido com o LUIS (Language Understanding Intelligent Service) da Microsoft. Criado para atender às necessidades do suporte acadêmico da faculdade, nosso objetivo é automatizar a classificação e direcionamento de solicitações de suporte, reduzindo atrasos e fornecendo respostas mais rápidas aos alunos, professores e funcionários da faculdade.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
+
+O atual sistema de suporte da faculdade enfrenta dificuldades na classificação eficaz e no roteamento de solicitações de suporte, resultando em atrasos no atendimento e insatisfação dos usuários. Os desafios incluem a falta de um mecanismo automatizado para identificar a natureza das solicitações de suporte, o que leva a uma alocação inadequada de recursos humanos e atrasos no direcionamento de problemas. O sistema de Help Desk proposto visa abordar esses desafios, automatizando a triagem de solicitações, fornecendo respostas mais rápidas e precisas e garantindo que os recursos de suporte sejam alocados de forma eficiente para resolver problemas de forma mais eficaz.
 
 O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
@@ -14,27 +15,31 @@ O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, qu
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
+O objetivo geral deste trabalho é implementar um sistema de Help Desk baseado na tecnologia LUIS da Microsoft para solucionar o problema de designação e ineficiências no suporte acadêmico da faculdade. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Este sistema visa automatizar a triagem de solicitações de suporte, direcionando-as de forma eficiente para as equipes apropriadas, reduzindo o tempo de espera dos usuários e melhorando a experiência geral. Além disso, buscamos criar uma base de conhecimento abrangente para oferecer respostas rápidas a perguntas comuns e melhorar a comunicação entre a equipe de suporte e os usuários e a avaliação da satisfação do usuário.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
+A escolha de abordar este tema se baseia em sólidas razões fundamentadas na realidade do suporte acadêmico da nossa faculdade. Os atrasos no atendimento e a falta de respostas adequadas às solicitações de suporte têm impacto direto na satisfação dos usuários.
 
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
+Portanto, a justificativa para este trabalho é aprimorar significativamente a experiência dos usuários, reduzindo a insatisfação, diminuindo os tempos de espera e otimizando o uso de recursos. A coleta de dados e pesquisas embasa nossa decisão de abordar esse problema e nos orienta na definição de objetivos específicos para melhorar o suporte acadêmico da faculdade.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+O público-alvo do nosso sistema de Help Desk é composto principalmente pelos funcionários da faculdade que desempenham papéis relacionados à resolução de problemas e tarefas específicas. Isso inclui:
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
+1. **Funcionários de Suporte Técnico**: Este grupo é responsável por fornecer suporte técnico e assistência a colegas e alunos. Eles precisam ser designados para tarefas com base nas palavras-chave associadas aos problemas apresentados.
+
+2. **Equipe Administrativa**: Além da equipe de suporte técnico, a equipe administrativa também pode usar o sistema para atribuir tarefas ou encaminhar questões internamente, garantindo uma alocação eficiente de recursos.
+
+3. **Gestores e Supervisores**: Os gestores e supervisores desempenham um papel-chave na supervisão das atribuições e no acompanhamento do progresso das tarefas designadas. Eles podem usar o sistema para tomar decisões informadas sobre o direcionamento de recursos.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)

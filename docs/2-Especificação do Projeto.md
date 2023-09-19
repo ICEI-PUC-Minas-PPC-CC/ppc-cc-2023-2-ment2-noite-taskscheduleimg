@@ -17,7 +17,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 |**Maria Oliveira**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="" width="200" height="200"/>|**Idade:** 29 anos. **Naturalidade:** São Paulo - São Paulo. **Ocupação:** Funcionária de Suporte Técnico.       |**Atribuições:**  Maria trabalha no suporte técnico da faculdade, onde recebe solicitações de assistência de alunos e professores. Ela precisa avaliar as solicitações, designar tarefas aos funcionários apropriados e fornecer suporte eficaz.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-taskscheduleimg/blob/main/docs/img/download%20(1).jpeg?raw=true" width="200" height="200"/>|**Idade:** 29 anos. **Naturalidade:** São Paulo - São Paulo. **Ocupação:** Funcionária de Suporte Técnico.       |**Atribuições:**  Maria trabalha no suporte técnico da faculdade, onde recebe solicitações de assistência de alunos e professores. Ela precisa avaliar as solicitações, designar tarefas aos funcionários apropriados e fornecer suporte eficaz.
 |**Motivações:** Maria busca fornecer um suporte de alta qualidade e contribuir para a satisfação dos usuários. Ela deseja reduzir o tempo de resposta e garantir que as solicitações sejam atendidas de forma eficiente.  |**Frustações:** Maria fica frustrada quando não consegue designar tarefas rapidamente devido à falta de informações claras nas solicitações. Ela também se sente sobrecarregada quando as tarefas não são distribuídas de forma eficaz.   |**Hobbies, história:** Nos fins de semana, Maria gosta de participar de grupos de teatro amador e é apaixonada por literatura clássica.
 
 > **Links Úteis**:

@@ -1,8 +1,8 @@
 # Detalhamento preliminar
 
-## Projeto de Interface
 
-COMO O C.L.U funciona: 
+
+## COMO O C.L.U funciona: 
 
 O CLU oferece um conjunto de domínios predefinidos que podem ajudar você a começar a criar seu aplicativo. Um aplicativo de domínio predefinido já está preenchido com intenções, entidades e enunciados.
 Depois que o aplicativo for preenchido com intenções, entidades e enunciados, você precisará treinar o aplicativo para que as alterações feitas possam ser refletidas.

@@ -98,13 +98,11 @@ consideração o chamado de "desligar a luz da sala":
 }
 ````
 
-Assim, é possível notar que o C.L.U compara o que foi escrito com as antigas intenções e entidades ensinadas à ele, e compara, com base na linguagem, qual mais se assemelha ao que foi pedido pelo usuário, executando a ação. Caso
-a ação esteja errada, também é possível ensinar o C.L.U corretamente, prevenindo futuros erros semelhantes.
+Assim, é possível notar que o C.L.U compara o que foi escrito com as antigas intenções e entidades ensinadas à ele, e compara, com base na linguagem, qual mais se assemelha ao que foi pedido pelo usuário, executando a ação. Caso a ação esteja errada, também é possível ensinar o C.L.U corretamente, prevenindo futuros erros semelhantes.
 
 essa ação, aparentemente "simples" do C.L.U consiste em 7 etapas principais. São elas: 
 
 1- Coleta de Dados: O CLU é treinado em uma enorme quantidade de dados de texto e áudio para aprender como as pessoas se comunicam em linguagem natural. Isso inclui textos de livros, conversas em redes sociais, gravações de áudio e muito mais.
-
 
 2- Pré-processamento: Antes de entender o texto ou o áudio, o CLU faz um pré-processamento para limpar e organizar os dados. Isso inclui a remoção de pontuações, separação de palavras em tokens (unidades individuais) e a conversão de texto em um formato que o computador possa entender.
 
@@ -117,13 +115,3 @@ essa ação, aparentemente "simples" do C.L.U consiste em 7 etapas principais. S
 6- Resposta ou Ação: Depois de entender o texto ou o áudio, o CLU pode realizar ações específicas com base no que foi solicitado. Isso pode incluir responder a uma pergunta, executar uma pesquisa na internet, criar lembretes, controlar dispositivos de casa inteligente e muito mais.
 
 7-Retorno de Informações: Por fim, o CLU retorna uma resposta ou realiza uma ação com base no que foi solicitado. Isso pode ser uma resposta em texto, uma saída de voz ou até mesmo uma ação física, dependendo do contexto e das capacidades do sistema.
-## User Flow
-
-![Exemplo de UserFlow](img/userflow.jpg)
-
-'Como eu e meu grupo ainda não conhecemos a interface do CRC não foi possível desenvolver o User Flow adequado para o software. Conversei com o professor Diego e ele ficou de nos mandar prints e Sketchs de como funcionária a interface para que possamos trabalhar em cima.'
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)

@@ -9,6 +9,7 @@ Depois que o aplicativo for preenchido com intenções, entidades e enunciados, 
 
 Após o C.L.U ter sido treinado com intenções, entidades e enunciados o mesmo começará a verificar em seu banco de dados o que mais se aproxima com o que a persona digitou. Abaixo está um exemplo de como o mesmo funciona, levando em 
 consideração o chamado de "desligar a luz da sala":
+````
 {
     "query": "turn off the living room light",
     "prediction": {
@@ -95,6 +96,7 @@ consideração o chamado de "desligar a luz da sala":
         }
     }
 }
+````
 
 Assim, é possível notar que o C.L.U compara o que foi escrito com as antigas intenções e entidades ensinadas à ele, e compara, com base na linguagem, qual mais se assemelha ao que foi pedido pelo usuário, executando a ação. Caso
 a ação esteja errada, também é possível ensinar o C.L.U corretamente, prevenindo futuros erros semelhantes.

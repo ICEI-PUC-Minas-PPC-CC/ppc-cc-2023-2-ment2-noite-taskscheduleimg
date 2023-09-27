@@ -8,9 +8,10 @@
 
 - Diovane De Jesus Almeida Signorelli
 - Felipe Pereira de Pádua
+- Gabriel Miolo Vieira da Silva
 - João Augusto Nogueira Ferrero
 - Lucas Gabriel da Silva Sampaio
-- Maria Eduarda Microni Quites Ferreira
+
 
 ## Professor
 

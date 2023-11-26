@@ -25,7 +25,14 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 |                                   | 59 a 64 anos    **787**                      |                                    |                               |
 |                                   | 64 a 70 anos    **944**                      |                                    |                               |
 
-(((LUCAS, POSTAR O RESTANTE DO RELATÓRIO)))
+| Principais produtos comprados | Prioridade dos tickets | Canal de comunicação do ticket | Tempo para resolver os tickets | Avaliações de usuário | Primeira resposta para o ticket |
+|:----------------------------:|:----------------------:|:------------------------------:|:------------------------------:|:---------------------:|:-------------------------------:|
+| Canon EOS    3%          | Alto    14%        | Email    25%               | 15/01/2023 até 04/02/2023    707 | 1 até 1.4    553  | 15/01/2023 até 04/02/2023    292 |
+| GoPro Hero   3%          | Médio   26%        | Ligação  25%               | 04/02/2023 até 06/03/2023    1817 | 1.8 até 2.20 549  | 04/02/2023 até 06/03/2023    645 |
+| Outros       91%         | Crítico 25%        | Chat     10%               | 31/05/2023 até 01/06/2023    1673 | 3 até 3.4    580  | 31/05/2023 até 01/06/2023    635 |
+| Amazon Echo  2%          | Baixo   35%        | Social Media 10%           | 01/06/2023 até 02/08/2023    1107 | 3.8 até 4.2  543  | 01/06/2023 até 02/08/2023    617 |
+| Nest Thermostat 1%       |                       | Outros   30%               | 06/03/2023 até 15/04/2023    2029 | 4.6 até 5    544  | 06/03/2023 até 15/04/2023    633 |
+|                             |                       |                                | 15/04/2023 até 31/05/2023    987  |                      | 15/04/2023 até 31/05/2023    601 |
 # ANÁLISE DE DADOS
 
 ### O objetivo desta análise é entender o perfil dos clientes que enviam tickets de help desk, os tipos e assuntos dos tickets, e possíveis melhorias no atendimento. Os dados foram fornecidos pelo usuário, e se referem a um período não especificado.
@@ -45,7 +52,18 @@ Os clientes que enviam tickets de help desk são distribuídos igualmente entre 
 
 A faixa etária que mais envia tickets é a de 18 anos, com 958 tickets, seguida pela de 64 a 70 anos, com 944 tickets. As demais faixas etárias têm uma quantidade similar de tickets, variando entre 771 e 961. Isso sugere que o help desk atende a clientes de todas as idades, e que os mais jovens e os mais velhos são os que mais precisam de suporte. Talvez isso se deva ao fato de que os mais jovens são mais curiosos e exigentes, e os mais velhos têm mais dificuldades com a tecnologia.
 
-(((LUCAS, FELIPE, JOÃO E GABRIEL, COLOCAR O RESTANTE DE SUA ANÁLISE ABAIXO DA MINHA, ACOMPANHADO DO GRÁFICO QUE FIZEMOS NO EXCEL)))
+-----
+## Tipos e assuntos dos tickets
+![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-taskscheduleimg/assets/143455854/c74c9529-38ab-4c43-813b-6533cb2f3970)
+
+![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-taskscheduleimg/assets/143455854/e07e739c-76f7-42e8-86f7-29dad9ad0ed1)
+-----
+Os tipos de tickets enviados são divididos em três categorias: solicitação de reembolso, problema técnico e outros. Cada uma dessas categorias representa 21% dos tickets, enquanto os outros 58% são de tipos não especificados. Isso mostra que o help desk recebe uma variedade de demandas, e que há um equilíbrio entre os tipos mais comuns. No entanto, seria interessante saber quais são os outros tipos de tickets, e se há algum padrão ou tendência entre eles.
+
+Os assuntos dos tickets também são divididos em três categorias: solicitação de reembolso, bug de software e outros. Cada uma dessas categorias representa 7% dos tickets, enquanto os outros 86% são de assuntos não especificados. Isso indica que o help desk lida com uma diversidade de temas, e que não há um assunto predominante. Assim como nos tipos de tickets, seria importante saber quais são os outros assuntos dos tickets, e se há alguma correlação ou causalidade entre eles.
+
+-----
+(((FELIPE, JOÃO E GABRIEL, COLOCAR O RESTANTE DE SUA ANÁLISE ABAIXO DA MINHA, ACOMPANHADO DO GRÁFICO QUE FIZEMOS NO EXCEL)))
 
 
 

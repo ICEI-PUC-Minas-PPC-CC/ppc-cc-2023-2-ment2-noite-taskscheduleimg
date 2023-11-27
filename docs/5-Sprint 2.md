@@ -69,6 +69,10 @@ Os assuntos dos tickets também são divididos em três categorias: solicitaçã
 
 ![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-taskscheduleimg/blob/main/docs/img/Screenshot_2023-11-26_180435.png)
 
+![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-taskscheduleimg/blob/main/docs/img/Screenshot_2023-11-26_180442.png)
+
+-----
+
 Com 25% dos tickets classificados como críticos, é vital garantir uma resposta rápida e eficaz para esses casos. Recomenda-se priorizar recursos para resolver problemas considerados críticos pelos usuários.
 
 Dado que 35% dos tickets são de prioridade baixa, é possível otimizar recursos destinados a esses casos, considerando soluções automatizadas ou direcionamento para canais de autoatendimento.
@@ -77,7 +81,7 @@ Com 26% dos tickets classificados como médios, é importante manter um equilíb
 
 A análise da distribuição de prioridades deve ser contínua, permitindo ajustes conforme as mudanças nas demandas do usuário. A implementação de um sistema de monitoramento em tempo real pode ser benéfica.
 
-![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-taskscheduleimg/blob/main/docs/img/Screenshot_2023-11-26_180442.png)
+
 
 Com 30% dos tickets provenientes de outros canais não especificados, é crucial identificar e compreender esses canais para aprimorar a diversificação. A criação de uma categorização mais detalhada pode facilitar a gestão eficaz desses casos.
 

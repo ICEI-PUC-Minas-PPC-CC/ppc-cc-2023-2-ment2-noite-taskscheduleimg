@@ -81,7 +81,7 @@ Com 26% dos tickets classificados como médios, é importante manter um equilíb
 
 A análise da distribuição de prioridades deve ser contínua, permitindo ajustes conforme as mudanças nas demandas do usuário. A implementação de um sistema de monitoramento em tempo real pode ser benéfica.
 
-
+-----
 
 Com 30% dos tickets provenientes de outros canais não especificados, é crucial identificar e compreender esses canais para aprimorar a diversificação. A criação de uma categorização mais detalhada pode facilitar a gestão eficaz desses casos.
 

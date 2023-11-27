@@ -65,6 +65,9 @@ Os tipos de tickets enviados são divididos em três categorias: solicitação d
 Os assuntos dos tickets também são divididos em três categorias: solicitação de reembolso, bug de software e outros. Cada uma dessas categorias representa 7% dos tickets, enquanto os outros 86% são de assuntos não especificados. Isso indica que o help desk lida com uma diversidade de temas, e que não há um assunto predominante. Assim como nos tipos de tickets, seria importante saber quais são os outros assuntos dos tickets, e se há alguma correlação ou causalidade entre eles.
 
 -----
+## Prioridade e meios de comunicação dos tickets
+![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-taskscheduleimg/blob/main/docs/img/Screenshot_2023-11-26_180435.png)
+
 (((FELIPE, JOÃO E GABRIEL, COLOCAR O RESTANTE DE SUA ANÁLISE ABAIXO DA MINHA, ACOMPANHADO DO GRÁFICO QUE FIZEMOS NO EXCEL)))
 
 

@@ -69,30 +69,22 @@ Os assuntos dos tickets também são divididos em três categorias: solicitaçã
 
 ![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-taskscheduleimg/blob/main/docs/img/Screenshot_2023-11-26_180435.png)
 
-Atenção aos Tickets Críticos:
 Com 25% dos tickets classificados como críticos, é vital garantir uma resposta rápida e eficaz para esses casos. Recomenda-se priorizar recursos para resolver problemas considerados críticos pelos usuários.
 
-Otimização de Recursos para Tickets Baixos:
 Dado que 35% dos tickets são de prioridade baixa, é possível otimizar recursos destinados a esses casos, considerando soluções automatizadas ou direcionamento para canais de autoatendimento.
 
-Equilíbrio na Resolução de Tickets Médios:
 Com 26% dos tickets classificados como médios, é importante manter um equilíbrio na alocação de recursos para garantir uma resposta eficiente a uma quantidade significativa de solicitações.
 
-Monitoramento Contínuo:
 A análise da distribuição de prioridades deve ser contínua, permitindo ajustes conforme as mudanças nas demandas do usuário. A implementação de um sistema de monitoramento em tempo real pode ser benéfica.
 
 ![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-taskscheduleimg/blob/main/docs/img/Screenshot_2023-11-26_180442.png)
 
-Diversificação de Canais:
 Com 30% dos tickets provenientes de outros canais não especificados, é crucial identificar e compreender esses canais para aprimorar a diversificação. A criação de uma categorização mais detalhada pode facilitar a gestão eficaz desses casos.
 
-Atenção ao Suporte por Ligação e Email:
 Dado que 25% dos tickets são originados por ligação e 25% por email, recomenda-se uma atenção especial a esses canais, otimizando processos para garantir respostas rápidas e eficazes.
 
-Potencial de Crescimento no Atendimento por Chat e Redes Sociais:
 Com apenas 10% dos tickets provenientes de chat e redes sociais, existe um potencial significativo de crescimento nesses canais. Explorar estratégias para incentivar o uso desses meios pode proporcionar uma comunicação mais dinâmica e instantânea.
 
-Feedback Contínuo dos Clientes:
 Incentivar os clientes a fornecerem feedback sobre a experiência em diferentes canais pode ser valioso. Isso ajudará a ajustar a estratégia de comunicação para atender às preferências e necessidades dos clientes.
 
 -----

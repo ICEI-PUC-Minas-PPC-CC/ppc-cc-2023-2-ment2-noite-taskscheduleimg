@@ -6,7 +6,7 @@
   
 - ***Quais foram as principais dificuldades enfrentadas pelo grupo?*** As principais dificuldades foram a falta de comunicação com o setor, a falta de acesso aos dados, e a falta de tempo para fazer o trabalho. Nós não tivemos um feedback do professor Diego sobre o envio dos dados. Nós também não conseguimos obter os dados de outra forma, pois o setor de tecnologia nos disse que eles eram confidenciais.
 
-- ***Que mudanças poderiam ser realizadas que tornaria o processo mais eficiente?*** Algumas mudanças que poderiam melhorar o processo são: procurar o setor de tecnologia antes, e não esperar a resposta por email; verificar a disponibilidade e a legalidade dos dados antes de iniciar o trabalho; ter um plano B caso os dados não chegassem a tempo; comunicar-se com o professor com mais frequência e cobrar uma resposta dele; Um exclarecimento prático de como usar a ferramenta do CLU teria nos poupado muito tempo.
+- ***Que mudanças poderiam ser realizadas que tornaria o processo mais eficiente?*** Algumas mudanças que poderiam melhorar o processo são: procurar o setor de tecnologia antes, e não esperar a resposta por email; verificar a disponibilidade e a legalidade dos dados antes de iniciar o trabalho; ter um plano B caso os dados não chegassem a tempo; comunicar-se com o professor com mais frequência; Um esclarecimento prático de como usar a ferramenta do CLU teria nos poupado muito tempo.
 
 ----
 

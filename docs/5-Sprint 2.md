@@ -138,4 +138,23 @@ Uma quantidade significativa de avaliações mais altas, indicando que um númer
 
 -----
 
-((( GABRIEL, COLOCAR O RESTANTE DE SUA ANÁLISE ABAIXO DA MINHA, ACOMPANHADO DO GRÁFICO QUE FIZEMOS NO EXCEL)))
+![IMG-20231129-WA0051](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-taskscheduleimg/assets/72633582/294765fd-26c3-4375-b955-a8ccd9701c09)
+![IMG-20231129-WA0050](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-taskscheduleimg/assets/72633582/1048cea0-5afc-4138-b8e5-1ea5008df6de)
+-----
+
+ A maioria das compras feitas pelos clientes são categorizadas como “Outros” com 91%. Isso sugere que há uma grande variedade de produtos que estão sendo comprados, mas nenhum produto específico está dominando as vendas. Os produtos específicos mencionados, Canon EOS e GoPro Hero, cada um compõem 3% das compras, enquanto Amazon Echo e Nest Thermostat representam uma porcentagem menor das vendas totais, com 2% e 1% respectivamente.
+
+-----
+
+De 15/01/2023 até 04/02/2023, houve 292 respostas. Este é o período com o menor número de respostas entre os listados.
+De 06/03/2023 até 15/04/2023, houve 633 respostas.
+De 20/04/2023 até 03/06/2023, houve 645 respostas. Este é o período com o maior número de respostas.
+De 15/04/2023 até 31/05/2023, houve 601 respostas.
+De 01/06/2023 até 02/08/2023, houve 617 respostas.
+De 31/05/2023 até 01/06/2023, houve 635 respostas.
+
+Esses dados sugerem que o volume de respostas do HelpDesk pode variar significativamente dependendo do período. No entanto, sem informações adicionais, é difícil determinar a causa dessas variações. Pode ser útil analisar outros fatores, como o volume de tickets recebidos durante esses períodos, para obter uma compreensão mais completa da situação.
+
+
+
+

@@ -146,12 +146,12 @@ Uma quantidade significativa de avaliações mais altas, indicando que um númer
 
 -----
 
-De 15/01/2023 até 04/02/2023, houve 292 respostas. Este é o período com o menor número de respostas entre os listados.
-De 06/03/2023 até 15/04/2023, houve 633 respostas.
-De 20/04/2023 até 03/06/2023, houve 645 respostas. Este é o período com o maior número de respostas.
-De 15/04/2023 até 31/05/2023, houve 601 respostas.
-De 01/06/2023 até 02/08/2023, houve 617 respostas.
-De 31/05/2023 até 01/06/2023, houve 635 respostas.
+De 15/01/2023 até 04/02/2023, houveram 292 respostas. Este é o período com o menor número de respostas entre os listados.
+De 06/03/2023 até 15/04/2023, houveram 633 respostas.
+De 20/04/2023 até 03/06/2023, houveram 645 respostas. Este é o período com o maior número de respostas.
+De 15/04/2023 até 31/05/2023, houveram 601 respostas.
+De 01/06/2023 até 02/08/2023, houveram 617 respostas.
+De 31/05/2023 até 01/06/2023, houveram 635 respostas.
 
 Esses dados sugerem que o volume de respostas do HelpDesk pode variar significativamente dependendo do período. No entanto, sem informações adicionais, é difícil determinar a causa dessas variações. Pode ser útil analisar outros fatores, como o volume de tickets recebidos durante esses períodos, para obter uma compreensão mais completa da situação.
 

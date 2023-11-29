@@ -93,10 +93,49 @@ Incentivar os clientes a fornecerem feedback sobre a experiência em diferentes 
 
 -----
 
-((( JOÃO E GABRIEL, COLOCAR O RESTANTE DE SUA ANÁLISE ABAIXO DA MINHA, ACOMPANHADO DO GRÁFICO QUE FIZEMOS NO EXCEL)))
+## Tempo de resolução e avaliações de usuário
 
+![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-taskscheduleimg/blob/main/docs/img/WhatsApp%20Image%202023-11-28%20at%2021.20.56.jpeg)
 
+![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-taskscheduleimg/blob/main/docs/img/WhatsApp%20Image%202023-11-28%20at%2021.20.57.jpeg)
 
+-----
 
+15/01/2023 até 04/02/2023 - 707 Tickets Resolvidos:
+Período inicial com um número relativamente baixo de tickets resolvidos.
 
+04/02/2023 até 06/03/2023 - 1817 Tickets Resolvidos:
+Aumento significativo no volume de tickets resolvidos em comparação ao período anterior.
 
+31/05/2023 até 01/06/2023 - 1673 Tickets Resolvidos:
+Manutenção de uma alta quantidade de tickets resolvidos, sugerindo uma demanda constante.
+
+01/06/2023 até 02/08/2023 - 1107 Tickets Resolvidos:
+Ligeira queda no número de tickets resolvidos em relação ao período anterior.
+
+06/03/2023 até 15/04/2023 - 2029 Tickets Resolvidos:
+Recuperação no volume de resolução, atingindo um dos valores mais altos.
+
+15/04/2023 até 31/05/2023 - 987 Tickets Resolvidos:
+Queda notável no número de tickets resolvidos em comparação aos períodos anteriores.
+
+-----
+
+Avaliações de 1 até 1.4 - 553 Avaliações:
+Representa uma quantidade significativa de avaliações, sugerindo que uma parte substancial dos usuários atribuiu pontuações mais baixas.
+
+Avaliações de 1.8 até 2.20 - 549 Avaliações:
+Similar à faixa anterior, indicando uma continuidade na distribuição de avaliações mais baixas.
+
+Avaliações de 3 até 3.4 - 580 Avaliações:
+Uma quantidade relativamente alta de avaliações nessa faixa, indicando uma proporção significativa de usuários que deram pontuações intermediárias.
+
+Avaliações de 3.8 até 4.2 - 543 Avaliações:
+Representa outra faixa com uma quantidade apreciável de avaliações, sugerindo uma consistência nas avaliações intermediárias.
+
+Avaliações de 4.6 até 5 - 544 Avaliações:
+Uma quantidade significativa de avaliações mais altas, indicando que um número substancial de usuários está bastante satisfeito com o serviço de help desk.
+
+-----
+
+((( GABRIEL, COLOCAR O RESTANTE DE SUA ANÁLISE ABAIXO DA MINHA, ACOMPANHADO DO GRÁFICO QUE FIZEMOS NO EXCEL)))
